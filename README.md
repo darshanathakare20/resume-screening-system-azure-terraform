@@ -8,26 +8,6 @@ The infrastructure is provisioned as code (IaC) and includes networking, securit
 
 ---
 
-## Architecture
-
-Terraform
-↓
-Azure Resource Group
-↓
-Virtual Network + Subnet
-↓
-Network Security Group
-↓
-Ubuntu Virtual Machine
-↓
-Java 21 + Spring Boot
-↓
-PostgreSQL
-↓
-Swagger UI
-
----
-
 ## Technologies Used
 
 * Terraform
